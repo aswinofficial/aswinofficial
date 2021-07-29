@@ -47,6 +47,8 @@ I'm  a Full Stack Web Developer a Designer and a Content Creator. I Spend most o
 
 <br>
 
+<details>
+
 <summary>
   More stuff about me 👀
 </summary>
@@ -97,3 +99,5 @@ CherryCode is a youtube channel for learning technological stuffs, coding and de
 <br>
 
 [![IG Badge](https://img.shields.io/badge/-@aswin.io-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/aswin.io) [![Mail Badge](https://img.shields.io/badge/-aswin.contactme-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aswin.contactme@gmail.com)
+
+</details>
