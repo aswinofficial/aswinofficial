@@ -29,11 +29,6 @@ I'm  a Full Stack Web Developer a Designer and a Content Creator. I Spend most o
 <br />
 <br />
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/aswinofficial/aswin/main/idea.gif" width="500" height="350" />
-
-<br />
-<br />
-
 ## Bizness
 
 - :paperclip 📎 : [My Resume/CV](#)
@@ -64,11 +59,6 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 <br>
 
 CherryCode is a youtube channel for learning technological stuffs, coding and design. Including new technologies and frameworks and anything really related to development world and ideas that can be helpful for the rest of the world. 🍒✨
-
-<br>
-<br>
-
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/aswinofficial/aswin/main/case.gif" width="500" height="350" />
 
 <br>
 <br>
